@@ -10,3 +10,13 @@ Private Chat Web-App
 # run
 
 ```nodemon index```
+
+open ```localhost:4000```
+
+insert your own username in ```handle``` field and click on ```register```
+
+second user does same
+
+first user can add the aimed-user for connection in ```to```
+
+start to type your```message``` and ```send``` it
